@@ -1,0 +1,3 @@
+#myfirstrscript
+data(women)
+women 
